@@ -1,0 +1,40 @@
+Songs {
+  background-color: #cbe2ff;
+  width: 100%;
+}
+Banner {
+  display: block;
+  color: #18385e;
+  text-align: center;
+  font-size: 30pt;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+Song {
+  display: block;
+  margin-bottom: 30pt;
+  margin-top: 30pt;
+  margin-left: 0;
+  background-color: #ffffff;
+}
+Title {
+  display: block;
+  color: #18385e;
+  margin-left: 10pt;
+  font-size: 20pt;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+Artist {
+  display: block;
+  color: #18385ecc;
+  margin-left: 10pt;
+  font-size: 10pt;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+Genre,
+Year {
+  display: block;
+  color: #18385ecc;
+  margin-left: 20pt;
+  font-size: 10pt;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}

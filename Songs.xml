@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="SongsFormat.css"?>
+<Songs>
+    <Banner>
+        Karina's 10 Song List
+    </Banner>
+   <Song>
+       <Title>High Hopes</Title>
+       <Artist>Panic! At The Disco</Artist>
+       <Genre>Pop</Genre>
+       <Year>2018</Year> </Song>
+   <Song>
+       <Title>Sofia</Title>
+       <Artist>Alvaro Soler</Artist>
+       <Genre>Pop</Genre>
+       <Year>2016</Year> </Song>
+    <Song>
+       <Title>Heaven</Title>
+       <Artist>Avicii</Artist>
+       <Genre>EDM</Genre>
+       <Year>2019</Year> </Song>
+   <Song>
+       <Title>You should be sad</Title>
+       <Artist>Halsey</Artist>
+       <Genre>Alternative</Genre>
+       <Year>2020</Year> </Song>
+   <Song>
+       <Title>So Am I</Title>
+       <Artist>Ava Max</Artist>
+       <Genre>Pop</Genre>
+       <Year>2020</Year> </Song>
+   <Song>
+       <Title>2002</Title>
+       <Artist>Anne-marie</Artist>
+       <Genre>Pop</Genre>
+       <Year>2018</Year> </Song>
+   <Song>
+       <Title>Stitches</Title>
+       <Artist>Shawn Mendes</Artist>
+       <Genre>Pop</Genre>
+       <Year>2015</Year> </Song>
+   <Song>
+       <Title>Play That Song</Title>
+       <Artist>Train</Artist>
+       <Genre>Pop</Genre>
+       <Year>2016</Year> </Song>
+   <Song>
+       <Title>Ophelia</Title>
+       <Artist>The Lumineers</Artist>
+       <Genre>Indie</Genre>
+       <Year>2016</Year> </Song>
+   <Song>
+       <Title>When the Bones Are Good</Title>
+       <Artist>Ashley Price</Artist>
+       <Genre>Pop</Genre>
+       <Year>2020</Year> </Song>
+    </Songs>
